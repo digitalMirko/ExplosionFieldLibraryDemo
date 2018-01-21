@@ -1,5 +1,5 @@
-# ExplosionFieldLibraryDemo
-ExplosionField Library Demo app
+# ExplosionField Library Demo app
+
 App created in Android Studio 3.0.1 and tested on a Nexus 5 Android Emulator then on a Motorola Moto X Developer Edition Android phone.
 
 This app creates a number of images and text that when clicked explodes that item in an animated form on the screen
