@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExplosionField Library Demo</string>
+    <string name="greenphoneicon">greenphoneicon</string>
+    <string name="click_image_to_explode">Click image to see Explosion</string>
+    <string name="bluetwittericon">bluetwittericon</string>
+    <string name="orangepurpleinstagramicon">orangepurpleinstagramicon</string>
+    <string name="yellowsnapchaticon">yellowsnapchaticon</string>
+    <string name="redyoutubeicon">redyoutubeicon</string>
+    <string name="purplephoneringingicon">purplephoneringingicon</string>
+</resources>
